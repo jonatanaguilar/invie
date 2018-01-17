@@ -1,0 +1,116 @@
+*{
+	/*width: tamaño;
+	height. tamaño;
+	padding: 10px;
+	padding-top: 10px;
+	padding-left: 60px;
+	padding-right: 10px;
+	padding-bottom: 90px;
+	padding: 10px 10px 5px 15px;
+	margin: 10px;
+	margin-top: 10px;
+	-left: 60px;
+	padding-right: 10px;
+	padinng-bottom: 90px;*/
+	/*border: 2px solid red;*/
+}
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	margin: 0px;
+}
+
+button {
+	border-radius: 5px;
+	border: none;
+	background: #fd324e;
+	color: white;
+	padding: 4px;
+}
+
+.titulo {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70px;
+	margin-bottom: 0px;
+}
+
+.title-a {
+	font-size: 24px;
+	margin-top: 0;
+}
+.title-b{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.gitarras {
+	color: #1F313C;
+	
+}
+
+
+.guitarras h2 {
+	font-family: 'Montserrat', sans-serif
+	font-size: 35px;
+}
+.portada {
+	background-image: url('../img/background.png');
+	color: white;
+	padding: 20px;
+}
+.portada button  {
+	margin-bottom: 70px;
+}
+
+.menu {
+	font-size: 24spx;
+	display: inline-block;
+	position: absolute;
+	right: 0px;
+}
+
+.menu li {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.logotipo {
+	display: inline-block;
+}
+
+.contenedor {
+	width: 800px;
+	margin: auto;
+}
+
+.guitarra {
+	margin: 10px;
+	padding: 10px;
+	/*overflow: hidden;*/
+	border: 1px solid #1F313C;
+	border-radius: 8px;
+}
+.guitarra ol {
+	padding: 0;
+}
+.derecha {
+	float: right;
+	position: relative;
+	top: -142px;
+}
+.izquierda {
+	float: left;
+	position: relative;
+	top: 80px;
+}
+
+.contenedor-guitarra-a{
+ padding-left: 20px;
+}
+.contenedor-guitarra-b{
+	margin-left: 370px;
+
+}
+.header {
+	position: relative;
+}
+
+
