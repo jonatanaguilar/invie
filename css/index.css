@@ -113,4 +113,11 @@ button {
 	position: relative;
 }
 
+.footer {
+	background: #273b47;
+}
+
+.contacto img {
+	display: block;
+}
 
